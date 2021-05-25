@@ -1,9 +1,9 @@
 # about captcha image
-IMAGE_HEIGHT = 48
-IMAGE_WIDTH = 128
-CHAR_SETS = 'abcdefghijklmnpqrstuvwxyz123456789ABCDEFGHIJKLMNPQRSTUVWXYZ'
+IMAGE_HEIGHT = 25
+IMAGE_WIDTH = 80
+CHAR_SETS = '0123456789'
 CLASSES_NUM = len(CHAR_SETS)
-CHARS_NUM = 5
+CHARS_NUM = 4
 # for train
 RECORD_DIR = './data'
 TRAIN_FILE = 'train.tfrecords'
