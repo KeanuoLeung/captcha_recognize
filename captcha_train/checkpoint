@@ -1,6 +1,2 @@
-model_checkpoint_path: "captcha-7500"
-all_model_checkpoint_paths: "captcha-7100"
-all_model_checkpoint_paths: "captcha-7200"
-all_model_checkpoint_paths: "captcha-7300"
-all_model_checkpoint_paths: "captcha-7400"
-all_model_checkpoint_paths: "captcha-7500"
+model_checkpoint_path: "captcha-0"
+all_model_checkpoint_paths: "captcha-0"
